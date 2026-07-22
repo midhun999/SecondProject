@@ -30,4 +30,8 @@ public class Employee   {
 
     }
 
+    void m3()   {
+        System.out.println("In the local");
+    }
+
 }
