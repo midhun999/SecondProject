@@ -7,10 +7,6 @@ public class Employee   {
         System.out.println("Third line");
     }
 
-	void m3()   {
-        System.out.println("In the GitHub");
-    }
-
     void m1()	{
 
 	System.out.println("New method m1 from GitHub");
@@ -32,10 +28,6 @@ public class Employee   {
 
 	System.out.println("New method m2 added from local");
 
-    }
-
-    void m3()   {
-        System.out.println("In the local");
     }
 
 }
