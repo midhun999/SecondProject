@@ -9,11 +9,13 @@ public class Employee   {
 
     public static void sum()	{
 
-	int a = 10;
-	int b = 10;
-    int c = a + b;
-	System.out.println(c);
-    System.out.println("Method Executed  -> act as dev 2 from local");
-	System.out.println("Bye -- added in GitHub act as dev 1");
+        int a = 10;
+        int b = 10;
+        int c = a + b;
+        System.out.println(c);
+        System.out.println("Method Executed  -> act as dev 2 from local");
+        System.out.println("Bye -- added in GitHub act as dev 1");
+
+    }
 
 }
