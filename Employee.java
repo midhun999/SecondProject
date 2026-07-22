@@ -7,6 +7,12 @@ public class Employee   {
         System.out.println("Third line");
     }
 
+    void m1()	{
+
+	System.out.println("New method m1 from GitHub");
+
+    }
+
     public static void sum()	{
 
         int a = 10;
