@@ -6,4 +6,9 @@ public class Employee   {
         System.out.println("Hi");
         System.out.println("Third line");
     }
+
+    public static void display()    {
+        System.out.println("Display method");
+    }
+
 }
