@@ -6,4 +6,11 @@ public class Employee   {
         System.out.println("Hi");
         System.out.println("Third line");
     }
+
+    public static void sum()	{
+
+	int a = 10;
+	int b = 10;
+	System.out.println(a + b);
+}
 }
