@@ -7,6 +7,10 @@ public class Employee   {
         System.out.println("Third line");
     }
 
+	void m3()   {
+        System.out.println("In the GitHub");
+    }
+
     void m1()	{
 
 	System.out.println("New method m1 from GitHub");
