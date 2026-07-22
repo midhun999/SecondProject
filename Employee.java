@@ -18,4 +18,10 @@ public class Employee   {
 
     }
 
+    void m2()	{
+
+	System.out.println("New method m2 added from local");
+
+    }
+
 }
