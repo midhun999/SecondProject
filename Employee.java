@@ -55,4 +55,13 @@ public class Employee   {
         System.out.println("Multiplication : " + c);
     }
 
+    public void mod()   {
+
+        int a = 10;
+        int b = 3;
+        int c = a % b;
+
+        System.out.println("Hello");
+    }
+
 }
