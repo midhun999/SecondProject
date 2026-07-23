@@ -40,4 +40,11 @@ public class Employee   {
 
     }
 
+    public void mul()   {
+        int a = 10, b = -6;
+        int c = a * b;
+
+        System.out.println("Multiplication : " + c);
+    }
+
 }
