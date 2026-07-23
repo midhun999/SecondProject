@@ -64,4 +64,12 @@ public class Employee   {
         System.out.println("Hello");
     }
 
+    public static void square()     {
+
+        int a = 5;
+        int b = a * a;
+
+        System.out.println("Square : " + b);
+    }
+
 }
