@@ -48,8 +48,4 @@ public class Employee   {
         System.out.println(c);
     }
 
-    void m3()   {
-        System.out.println("This is new branch my feature/method3");
-    }
-
 }
