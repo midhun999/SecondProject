@@ -40,4 +40,12 @@ public class Employee   {
 
     }
 
+    public void div()   {
+
+        int a = 5, b = 5;
+        int c = a / b;
+
+        System.out.println(c);
+    }
+
 }
