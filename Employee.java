@@ -72,4 +72,7 @@ public class Employee   {
         System.out.println("Square : " + b);
     }
 
+	public static void dummy()	{
+		System.out.println("Dummy method");
+
 }
