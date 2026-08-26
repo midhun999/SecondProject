@@ -64,10 +64,26 @@ public class Employee   {
         System.out.println("Hello");
     }
 
+    public static void abs()    {
+
+        int a = -10;
+        int c = Math.abs(a);
+        System.out.println(c);
+        System.out.println("Abs method executed");
+    }
+
+    public static void square()     {
+
+        int a = 5;
+        int b = a * a;
+
+        System.out.println("Square : " + b);
+    }
+
     public void pow()   {
-        int a = 10;
-        int b = 20;
-        double c = Math.pow(a, b);
+        int d = 10;
+        int e = 20;
+        double c = Math.pow(d, e);
 
         System.out.println(c);
         System.out.println("Bye");
