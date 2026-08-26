@@ -64,12 +64,14 @@ public class Employee   {
         System.out.println("Hello");
     }
 
-    public static void square()     {
+    public void pow()   {
+        int a = 10;
+        int b = 20;
+        double c = Math.pow(a, b);
 
-        int a = 5;
-        int b = a * a;
-
-        System.out.println("Square : " + b);
+        System.out.println(c);
+        System.out.println("Bye");
+        System.out.println("Pow method executed");
     }
 
 }
