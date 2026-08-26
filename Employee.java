@@ -9,7 +9,7 @@ public class Employee   {
 
     void m1()	{
 
-	System.out.println("New method m1 from GitHub");
+	System.out.println("PR1");
 
     }
 
